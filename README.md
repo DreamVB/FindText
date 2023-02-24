@@ -13,7 +13,7 @@ This is a simple tool I made in Lazarus to extract lines of text containing a se
 -	Search a list of files when the list becomes too large to see all the files.
 -	Extract all the lines in a text file that do not include the search string.
 -	Show the line number of the extract lines containing the search string.
--	Open to match or ignore search string case.
+-	Option to match or ignore search string case.
 -	Save or copy the extract lines.
 
 ## Screenshot
